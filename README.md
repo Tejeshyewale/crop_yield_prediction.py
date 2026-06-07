@@ -1,8 +1,6 @@
 ## crop_yield_prediction.py
 Predict the yield (output) of a particular crop based on environmental factors like rainfall, temperature, soil type, and other agronomic features.
 
-##step of Crop-yield Prediction :------------------------------------------------------------------------------------------------------------------
-
 
 📂 Dataset Sources
 
@@ -70,4 +68,7 @@ o	R² Score
 •	Deploy using Streamlit to make it interactive
 o	User selects crop, inputs rainfall, area, etc.
 o	Output: Predicted Yield
+
+
+If You Like My Repo Then Don't Forget To like it !!
 
